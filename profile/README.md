@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="./atl-logo.png" alt="Alloy Theory Lab emblem" width="180">
-  <h1>Alloy Theory Lab</h1>
+<a href="https://alloytheorylab.github.io/">
+  <img src="https://alloytheorylab.github.io/assets/uw/UW-Campus-Summer.jpg" alt="University of Wyoming" width="100%">
+</a>
+  
+    
+    <h1>Alloy Theory Lab</h1>
   <p><strong>Department of Mechanical Engineering | School of Energy Resources<br>University of Wyoming</strong></p>
   <p><a href="https://alloytheorylab.github.io/">Website</a> &middot; <a href="https://alloytheorylab.github.io/research.html">Research</a> &middot; <a href="https://alloytheorylab.github.io/publications.html">Publications</a> &middot; <a href="https://alloytheorylab.github.io/data.html">Open Data</a></p>
 </div>
